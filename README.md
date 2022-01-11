@@ -1,2 +1,15 @@
-# umi-react-typescript
-umi-react-typescript
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
